@@ -1,0 +1,97 @@
+2025-03-27 10:20:25,374 - INFO - Hub adding 192.168.97.199 with priority: 43 and service time: 5
+2025-03-27 10:20:25,389 - INFO - # Customers in queue: 1
+2025-03-27 10:20:25,389 - INFO - Server 1 servicing customer: 192.168.97.199 with priority: 43 for: 5 seconds.
+2025-03-27 10:20:26,406 - INFO - Hub adding 192.168.15.1 with priority: 37 and service time: 7
+2025-03-27 10:20:26,422 - INFO - # Customers in queue: 1
+2025-03-27 10:20:26,422 - INFO - Server 2 servicing customer: 192.168.15.1 with priority: 37 for: 7 seconds.
+2025-03-27 10:20:27,423 - INFO - Hub adding 192.168.232.55 with priority: 56 and service time: 2
+2025-03-27 10:20:27,424 - INFO - # Customers in queue: 1
+2025-03-27 10:20:28,434 - INFO - Hub adding 192.168.233.6 with priority: 67 and service time: 5
+2025-03-27 10:20:28,434 - INFO - # Customers in queue: 2
+2025-03-27 10:20:29,449 - INFO - Hub adding 192.168.142.95 with priority: 71 and service time: 3
+2025-03-27 10:20:29,449 - INFO - # Customers in queue: 3
+2025-03-27 10:20:30,404 - INFO - Server 1 finished servicing customer: 192.168.97.199 with priority: 43. Ready for next task.
+2025-03-27 10:20:30,404 - INFO - Server 1 servicing customer: 192.168.232.55 with priority: 56 for: 2 seconds.
+2025-03-27 10:20:30,451 - INFO - Hub adding 192.168.3.26 with priority: 32 and service time: 5
+2025-03-27 10:20:30,451 - INFO - # Customers in queue: 3
+2025-03-27 10:20:31,461 - INFO - Hub adding 192.168.34.241 with priority: 98 and service time: 4
+2025-03-27 10:20:31,461 - INFO - # Customers in queue: 4
+2025-03-27 10:20:32,413 - INFO - Server 1 finished servicing customer: 192.168.232.55 with priority: 56. Ready for next task.
+2025-03-27 10:20:32,413 - INFO - Server 1 servicing customer: 192.168.3.26 with priority: 32 for: 5 seconds.
+2025-03-27 10:20:32,474 - INFO - Hub adding 192.168.117.152 with priority: 86 and service time: 1
+2025-03-27 10:20:32,474 - INFO - # Customers in queue: 4
+2025-03-27 10:20:33,429 - INFO - Server 2 finished servicing customer: 192.168.15.1 with priority: 37. Ready for next task.
+2025-03-27 10:20:33,429 - INFO - Server 2 servicing customer: 192.168.233.6 with priority: 67 for: 5 seconds.
+2025-03-27 10:20:33,476 - INFO - Hub adding 192.168.222.119 with priority: 16 and service time: 5
+2025-03-27 10:20:33,476 - INFO - # Customers in queue: 4
+2025-03-27 10:20:34,476 - INFO - Hub adding 192.168.10.197 with priority: 85 and service time: 6
+2025-03-27 10:20:37,415 - INFO - Server 1 finished servicing customer: 192.168.3.26 with priority: 32. Ready for next task.
+2025-03-27 10:20:37,415 - INFO - Server 1 servicing customer: 192.168.222.119 with priority: 16 for: 5 seconds.
+2025-03-27 10:20:37,417 - INFO - # Customers in queue: 4
+2025-03-27 10:20:38,429 - INFO - Hub adding 192.168.138.148 with priority: 52 and service time: 7
+2025-03-27 10:20:38,445 - INFO - Server 2 finished servicing customer: 192.168.233.6 with priority: 67. Ready for next task.
+2025-03-27 10:20:38,445 - INFO - Server 2 servicing customer: 192.168.142.95 with priority: 71 for: 3 seconds.
+2025-03-27 10:20:38,445 - INFO - # Customers in queue: 4
+2025-03-27 10:20:39,459 - INFO - Hub adding 192.168.84.144 with priority: 87 and service time: 3
+2025-03-27 10:20:41,459 - INFO - Server 2 finished servicing customer: 192.168.142.95 with priority: 71. Ready for next task.
+2025-03-27 10:20:41,459 - INFO - Server 2 servicing customer: 192.168.138.148 with priority: 52 for: 7 seconds.
+2025-03-27 10:20:41,460 - INFO - # Customers in queue: 4
+2025-03-27 10:20:42,426 - INFO - Server 1 finished servicing customer: 192.168.222.119 with priority: 16. Ready for next task.
+2025-03-27 10:20:42,426 - INFO - Server 1 servicing customer: 192.168.10.197 with priority: 85 for: 6 seconds.
+2025-03-27 10:20:42,472 - INFO - Hub adding 192.168.205.154 with priority: 28 and service time: 3
+2025-03-27 10:20:42,472 - INFO - # Customers in queue: 4
+2025-03-27 10:20:43,486 - INFO - Hub adding 192.168.14.47 with priority: 80 and service time: 4
+2025-03-27 10:20:48,432 - INFO - Server 1 finished servicing customer: 192.168.10.197 with priority: 85. Ready for next task.
+2025-03-27 10:20:48,432 - INFO - Server 1 servicing customer: 192.168.205.154 with priority: 28 for: 3 seconds.
+2025-03-27 10:20:48,433 - INFO - # Customers in queue: 4
+2025-03-27 10:20:48,464 - INFO - Server 2 finished servicing customer: 192.168.138.148 with priority: 52. Ready for next task.
+2025-03-27 10:20:48,464 - INFO - Server 2 servicing customer: 192.168.14.47 with priority: 80 for: 4 seconds.
+2025-03-27 10:20:49,447 - INFO - Hub adding 192.168.27.243 with priority: 2 and service time: 6
+2025-03-27 10:20:49,447 - INFO - # Customers in queue: 4
+2025-03-27 10:20:50,459 - INFO - Hub adding 192.168.136.186 with priority: 66 and service time: 7
+2025-03-27 10:20:51,443 - INFO - Server 1 finished servicing customer: 192.168.205.154 with priority: 28. Ready for next task.
+2025-03-27 10:20:51,443 - INFO - Server 1 servicing customer: 192.168.27.243 with priority: 2 for: 6 seconds.
+2025-03-27 10:20:51,443 - INFO - # Customers in queue: 4
+2025-03-27 10:20:52,459 - INFO - Hub adding 192.168.68.13 with priority: 15 and service time: 5
+2025-03-27 10:20:52,475 - INFO - Server 2 finished servicing customer: 192.168.14.47 with priority: 80. Ready for next task.
+2025-03-27 10:20:52,475 - INFO - Server 2 servicing customer: 192.168.136.186 with priority: 66 for: 7 seconds.
+2025-03-27 10:20:52,475 - INFO - # Customers in queue: 4
+2025-03-27 10:20:53,485 - INFO - Hub adding 192.168.20.108 with priority: 41 and service time: 3
+2025-03-27 10:20:57,451 - INFO - Server 1 finished servicing customer: 192.168.27.243 with priority: 2. Ready for next task.
+2025-03-27 10:20:57,451 - INFO - Server 1 servicing customer: 192.168.68.13 with priority: 15 for: 5 seconds.
+2025-03-27 10:20:57,451 - INFO - # Customers in queue: 4
+2025-03-27 10:20:58,466 - INFO - Hub adding 192.168.47.216 with priority: 90 and service time: 2
+2025-03-27 10:20:59,483 - INFO - Server 2 finished servicing customer: 192.168.136.186 with priority: 66. Ready for next task.
+2025-03-27 10:20:59,483 - INFO - Server 2 servicing customer: 192.168.20.108 with priority: 41 for: 3 seconds.
+2025-03-27 10:20:59,483 - INFO - # Customers in queue: 4
+2025-03-27 10:21:00,485 - INFO - Hub adding 192.168.156.156 with priority: 13 and service time: 4
+2025-03-27 10:21:02,466 - INFO - Server 1 finished servicing customer: 192.168.68.13 with priority: 15. Ready for next task.
+2025-03-27 10:21:02,466 - INFO - Server 1 servicing customer: 192.168.117.152 with priority: 86 for: 1 seconds.
+2025-03-27 10:21:02,466 - INFO - # Customers in queue: 4
+2025-03-27 10:21:02,498 - INFO - Server 2 finished servicing customer: 192.168.20.108 with priority: 41. Ready for next task.
+2025-03-27 10:21:02,498 - INFO - Server 2 servicing customer: 192.168.156.156 with priority: 13 for: 4 seconds.
+2025-03-27 10:21:03,467 - INFO - Hub adding 192.168.201.235 with priority: 82 and service time: 7
+2025-03-27 10:21:03,467 - INFO - # Customers in queue: 4
+2025-03-27 10:21:03,482 - INFO - Server 1 finished servicing customer: 192.168.117.152 with priority: 86. Ready for next task.
+2025-03-27 10:21:03,482 - INFO - Server 1 servicing customer: 192.168.201.235 with priority: 82 for: 7 seconds.
+2025-03-27 10:21:04,467 - INFO - Hub adding 192.168.115.118 with priority: 42 and service time: 6
+2025-03-27 10:21:04,467 - INFO - # Customers in queue: 4
+2025-03-27 10:21:05,482 - INFO - Hub adding 192.168.80.161 with priority: 10 and service time: 6
+2025-03-27 10:21:06,510 - INFO - Server 2 finished servicing customer: 192.168.156.156 with priority: 13. Ready for next task.
+2025-03-27 10:21:06,510 - INFO - Server 2 servicing customer: 192.168.115.118 with priority: 42 for: 6 seconds.
+2025-03-27 10:21:06,510 - INFO - # Customers in queue: 4
+2025-03-27 10:21:07,524 - INFO - Hub adding 192.168.120.193 with priority: 92 and service time: 2
+2025-03-27 10:21:10,485 - INFO - Server 1 finished servicing customer: 192.168.201.235 with priority: 82. Ready for next task.
+2025-03-27 10:21:10,485 - INFO - Server 1 servicing customer: 192.168.80.161 with priority: 10 for: 6 seconds.
+2025-03-27 10:21:10,485 - INFO - # Customers in queue: 4
+2025-03-27 10:21:11,498 - INFO - Hub adding 192.168.201.60 with priority: 47 and service time: 7
+2025-03-27 10:21:12,513 - INFO - Server 2 finished servicing customer: 192.168.115.118 with priority: 42. Ready for next task.
+2025-03-27 10:21:12,513 - INFO - Server 2 servicing customer: 192.168.84.144 with priority: 87 for: 3 seconds.
+2025-03-27 10:21:12,513 - INFO - # Customers in queue: 4
+2025-03-27 10:21:13,514 - INFO - Hub adding 192.168.231.114 with priority: 45 and service time: 6
+2025-03-27 10:21:15,516 - INFO - Server 2 finished servicing customer: 192.168.84.144 with priority: 87. Ready for next task.
+2025-03-27 10:21:15,517 - INFO - Server 2 servicing customer: 192.168.201.60 with priority: 47 for: 7 seconds.
+2025-03-27 10:21:15,517 - WARNING - 
+Ctrl + C detected. Exiting gracefully.
+2025-03-27 10:21:16,487 - INFO - Server 1 finished servicing customer: 192.168.80.161 with priority: 10. Ready for next task.
+2025-03-27 10:21:22,527 - INFO - Server 2 finished servicing customer: 192.168.201.60 with priority: 47. Ready for next task.
